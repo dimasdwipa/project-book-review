@@ -42,7 +42,7 @@
             @empty
                 <li class="mb-4">
                     <div class="empty-book-item">
-                        <p class="empty-text text-lg font-semibold">No reviews yet</p>
+                        <p class="empty-text text-lg font-semibold">No reviews Yet</p>
                     </div>
                 </li>
             @endforelse
